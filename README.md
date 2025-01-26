@@ -1,2 +1,2 @@
-# amplify-petstoreapp
+# risk-app
 # Hello world
